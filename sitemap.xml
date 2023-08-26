@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>http://blog.kiuyor.top/link/index.html</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://blog.kiuyor.top/tags/index.html</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://blog.kiuyor.top/categories/index.html</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/live2d-on-hexo</loc>
+    <loc>http://blog.kiuyor.top/live2d-on-hexo</loc>
     
     <lastmod>2023-07-27</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/how-to-issue</loc>
+    <loc>http://blog.kiuyor.top/how-to-issue</loc>
     
     <lastmod>2023-07-27</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/seed</loc>
+    <loc>http://blog.kiuyor.top/seed</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/Arashi-top</loc>
+    <loc>http://blog.kiuyor.top/Arashi-top</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -66,8 +66,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <loc>http://blog.kiuyor.top/</loc>
+    <lastmod>2023-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
