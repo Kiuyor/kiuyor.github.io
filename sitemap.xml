@@ -110,7 +110,7 @@
 
   
   <url>
-    <loc>http://blog.kiuyor.top/tags/%E5%AD%A6%E4%B9%A0-%E8%8B%B1%E8%AF%AD/</loc>
+    <loc>http://blog.kiuyor.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -118,13 +118,6 @@
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E6%B8%B8%E8%AE%B0-%E5%8C%97%E4%BA%AC/</loc>
-    <lastmod>2023-09-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kiuyor.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -139,6 +132,13 @@
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E6%95%A3%E6%96%87/</loc>
+    <lastmod>2023-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.kiuyor.top/tags/%E5%AD%A6%E4%B9%A0-%E8%8B%B1%E8%AF%AD/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
