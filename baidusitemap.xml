@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.kiuyor.top/how-to-issue/</loc>
-    <lastmod>2023-09-17</lastmod>
+    <loc>http://blog.kiuyor.top/Arashi-top/</loc>
+    <lastmod>2023-10-02</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.kiuyor.top/beijing/</loc>
+    <lastmod>2023-10-02</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.kiuyor.top/English-Backup/</loc>
+    <lastmod>2023-10-02</lastmod>
   </url>
   <url>
     <loc>http://blog.kiuyor.top/live2d-on-hexo/</loc>
+    <lastmod>2023-10-02</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.kiuyor.top/young/</loc>
+    <lastmod>2023-10-02</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.kiuyor.top/how-to-issue/</loc>
     <lastmod>2023-09-17</lastmod>
   </url>
   <url>
     <loc>http://blog.kiuyor.top/seed/</loc>
     <lastmod>2023-09-17</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.kiuyor.top/beijing/</loc>
-    <lastmod>2023-09-17</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.kiuyor.top/English-Backup/</loc>
-    <lastmod>2023-09-17</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.kiuyor.top/Arashi-top/</loc>
-    <lastmod>2023-07-15</lastmod>
   </url>
 </urlset> 
