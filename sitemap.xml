@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.kiuyor.top/teshu/</loc>
+    <loc>http://blog.kiuyor.top/today-news/index.html</loc>
     
-    <lastmod>2023-10-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kiuyor.top/choujiang/index.html</loc>
-    
-    <lastmod>2023-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kiuyor.top/teshu/index.html</loc>
-    
-    <lastmod>2023-10-15</lastmod>
+    <lastmod>2023-12-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -74,15 +56,6 @@
   </url>
   
   <url>
-    <loc>http://blog.kiuyor.top/today-news/index.html</loc>
-    
-    <lastmod>2023-09-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.kiuyor.top/music/index.html</loc>
     
     <lastmod>2023-09-29</lastmod>
@@ -93,15 +66,6 @@
   
   <url>
     <loc>http://blog.kiuyor.top/how-to-issue/</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kiuyor.top/seed/</loc>
     
     <lastmod>2023-09-17</lastmod>
     
@@ -139,7 +103,7 @@
 
   <url>
     <loc>http://blog.kiuyor.top/</loc>
-    <lastmod>2023-10-31</lastmod>
+    <lastmod>2023-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,49 +111,42 @@
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2023-10-31</lastmod>
+    <lastmod>2023-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E5%AD%A6%E4%B9%A0-%E8%8B%B1%E8%AF%AD/</loc>
-    <lastmod>2023-10-31</lastmod>
+    <lastmod>2023-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E6%B8%B8%E8%AE%B0-%E5%8C%97%E4%BA%AC/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kiuyor.top/tags/Hexo-%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kiuyor.top/tags/%E6%95%A3%E6%96%87/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kiuyor.top/tags/%E8%AF%97/</loc>
-    <lastmod>2023-10-31</lastmod>
+    <lastmod>2023-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-10-31</lastmod>
+    <lastmod>2023-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.kiuyor.top/tags/%E8%AF%97/</loc>
+    <lastmod>2023-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.kiuyor.top/tags/Hexo-%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
