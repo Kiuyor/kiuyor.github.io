@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.kiuyor.top/how-to-photo-2/</loc>
+    
+    <lastmod>2024-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.kiuyor.top/how-to-photo/</loc>
+    
+    <lastmod>2024-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.kiuyor.top/meng/</loc>
     
     <lastmod>2024-04-13</lastmod>
@@ -139,57 +157,57 @@
 
   <url>
     <loc>http://blog.kiuyor.top/</loc>
-    <lastmod>2024-04-13</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://blog.kiuyor.top/tags/%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2024-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.kiuyor.top/tags/%E6%B8%B8%E8%AE%B0-%E5%8C%97%E4%BA%AC/</loc>
-    <lastmod>2024-04-13</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.kiuyor.top/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-04-13</lastmod>
+    <loc>http://blog.kiuyor.top/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.kiuyor.top/tags/Hexo-%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-04-13</lastmod>
+    <lastmod>2024-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.kiuyor.top/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2024-04-13</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E9%9A%8F%E7%AC%94-%E6%81%B6/</loc>
-    <lastmod>2024-04-13</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.kiuyor.top/tags/%E8%AF%97/</loc>
-    <lastmod>2024-04-13</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
